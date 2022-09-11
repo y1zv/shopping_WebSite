@@ -1,4 +1,4 @@
-Hi there, This is a simple shopping webSite build my me the tools I used in this project is : 
+Hi there, This is a simple shopping webSite build by me the tools I used in this project is : 
 1. JavaScript 
 2. jQuery
 3. Html
